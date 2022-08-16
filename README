@@ -1,0 +1,16 @@
+Here I've done:
+
+1. add a commit to main
+2. make a branch and add two commits to it
+3. add a commit to main
+4. hit **merge** on github
+
+5. add a commit to main
+6. make a branch and add two commits to it
+7. add a commit to main
+8. hit **rebase and merge** on github
+
+9. add a commit to main
+10. make a branch and add two commits to it
+11. add a commit to main
+12. hit **squash and merge** on github
